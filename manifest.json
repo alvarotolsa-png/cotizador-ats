@@ -1,0 +1,19 @@
+{
+  "name": "Cotizador ATS",
+  "short_name": "Cotizador ATS",
+  "description": "Genera y gestiona cotizaciones",
+  "start_url": "https://alvarotolsa-png.github.io/cotizador-ats/Cotizador_index.html",
+  "scope": "https://alvarotolsa-png.github.io/cotizador-ats/",
+  "display": "standalone",
+  "background_color": "#f3f6f9",
+  "theme_color": "#084a8f",
+  "lang": "es",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 192 192'%3E%3Crect width='192' height='192' rx='24' fill='%23084a8f'/%3E%3Cpath fill='white' d='M48 40h96v16H48zm0 32h96v16H48zm0 32h64v16H48zm0 32h80v16H48z'/%3E%3C/svg%3E",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
