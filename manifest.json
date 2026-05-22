@@ -2,8 +2,8 @@
   "name": "Cotizador ATS",
   "short_name": "Cotizador ATS",
   "description": "Genera y gestiona cotizaciones",
-  "start_url": "https://alvarotolsa-png.github.io/cotizador-ats/Cotizador_index.html",
-  "scope": "https://alvarotolsa-png.github.io/cotizador-ats/",
+  "start_url": "/cotizador-ats/Cotizador_index_plus.html",
+"scope": "/cotizador-ats/"
   "display": "standalone",
   "background_color": "#f3f6f9",
   "theme_color": "#084a8f",
