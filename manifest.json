@@ -1,0 +1,26 @@
+{
+  "name": "Cotizador ATS",
+  "short_name": "Cotizador ATS",
+  "description": "Cotizaciones y ordenes de compra ATS",
+  "id": "./Cotizador_index_plus.html",
+  "start_url": "./Cotizador_index_plus.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f3f6f9",
+  "theme_color": "#084a8f",
+  "orientation": "any",
+  "icons": [
+    {
+      "src": "./icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "./icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
